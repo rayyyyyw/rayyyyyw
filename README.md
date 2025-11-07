@@ -1,3 +1,11 @@
+<h1 align="center">Hey there, I'm Ray 👋</h1>
+
+<p align="center">
+  🎓 Information Technology student at <b>Central Philippine State University</b><br>
+  💻 Currently learning <b>Laravel, React, and PostgreSQL</b><br>
+  🚀 Building my thesis project: <b>IoT-Based Tricycle Tracking and Monitoring System</b><br>
+  🌱 Passionate about Web Development, IoT, and Smart Systems
+</p>
 
 ## 🧠 Tech Stack
 
