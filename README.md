@@ -1,5 +1,5 @@
 
-🧠 Tech Stack 
+##🧠 Tech Stack 
 
 
 
