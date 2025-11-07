@@ -1,4 +1,6 @@
-## 🧠 Tech Stack
+<p align="center">
+## 🧠 Tech Stack 
+</p>
 
 ### 💻 Frontend
 <p align="center">
