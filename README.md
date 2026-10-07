@@ -1,92 +1,226 @@
-<h1 align="center">Hey there, I'm Ray 👋</h1>
+<!-- ===================================================== -->
+<!--                  RAY GEORPE — GITHUB                  -->
+<!-- ===================================================== -->
+
+<h1 align="center">Hey, I'm Ray 👋</h1>
+
+<h3 align="center">
+  IT Educator • Full-Stack Developer • MIT Graduate Student
+</h3>
 
 <p align="center">
-  💻 IT Educator • Full-Stack Developer • Graduate Student<br>
-  🎓 Master of Information Technology (MIT) Student<br>
-  🏫 IT Faculty at <b>Central Philippine State University – Hinoba-an Campus</b><br>
-  🚀 Building practical web, mobile, IoT, and information systems<br>
-  🌱 Always learning, building, and improving
+  Building practical Web • Mobile • IoT • Information Systems
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                       ABOUT                           -->
+<!-- ===================================================== -->
 
 ## 👨‍💻 About Me
 
-- 🧑‍🏫 Teaching Web and Mobile Application Development
-- 🎓 Currently pursuing my Master of Information Technology
-- 🏗️ Developing an HRIS using Laravel, React, Inertia, and PostgreSQL
-- 🍽️ Building a multi-role Restaurant POS system with Next.js and PostgreSQL
-- 📱 Exploring React Native and Expo for mobile application development
-- 🌐 Experienced with full-stack web development and REST-based systems
-- 📡 Built an IoT-based Tricycle Tracking and Monitoring System using GPS and LoRa
-- 🔐 Interested in cybersecurity, data security, and secure system development
-- 🤖 Exploring AI-assisted software development and modern developer workflows
+```yaml
+name: Ray
+role: IT Educator & Full-Stack Developer
+education: Master of Information Technology
+institution: Central Philippine State University — Hinoba-an Campus
 
+currently_building:
+  - Human Resource Information System
+  - Restaurant POS System
+  - React Native Applications
 
-## 🧠 Tech Stack
+interests:
+  - Full-Stack Development
+  - Mobile Development
+  - System Architecture
+  - Cybersecurity
+  - Data Security
+  - AI-Assisted Development
+```
 
-### Frontend
+<br>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42" alt="Bootstrap" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="42" alt="Tailwind CSS" />
-</p>
+<!-- ===================================================== -->
+<!--                     TECH STACK                        -->
+<!-- ===================================================== -->
 
-### Backend & Database
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="42" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="42" alt="Firebase" />
-</p>
-
-### Mobile, IoT & Tools
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React Native" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" alt="Arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,nextjs,nodejs,tailwind,bootstrap,postgres,mysql,firebase,git,github,vscode,figma,arduino&perline=20" />
 </p>
 
+<p align="center">
+  <sub>
+    HTML • CSS • JavaScript • TypeScript • PHP • Laravel • React • Next.js • Node.js •
+    Tailwind • Bootstrap • PostgreSQL • MySQL • Firebase • Git • GitHub • VS Code •
+    Figma • Arduino
+  </sub>
+</p>
 
-## 🚀 What I'm Working On
+<br>
 
-### 🏢 Human Resource Information System
-A role-based HRIS designed around real organizational workflows.
+<!-- ===================================================== -->
+<!--                   GITHUB STATS                        -->
+<!-- ===================================================== -->
 
-`Laravel` • `React` • `Inertia.js` • `TypeScript` • `PostgreSQL`
+## 📊 GitHub Analytics
 
-### 🍽️ Restaurant POS System
-A modern restaurant point-of-sale platform with administrative and restaurant-side workflows.
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
+  />
+</p>
 
-`Next.js` • `React` • `TypeScript` • `PostgreSQL` • `Prisma`
+<br>
 
-### 📱 Mobile Application Development
-Building and teaching practical mobile applications using modern React Native development.
+<p align="center">
+  <img
+    width="70%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
-`React Native` • `Expo` • `Firebase`
+<br>
 
+<!-- ===================================================== -->
+<!--                 CONTRIBUTION GRAPH                    -->
+<!-- ===================================================== -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true"
+    alt="Contribution Graph"
+  />
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                      PROJECTS                         -->
+<!-- ===================================================== -->
+
+## 🚀 Current Projects
+
+<table align="center">
+<tr>
+
+<td width="33%" align="center">
+
+### 🏢 HRIS
+
+**Human Resource Information System**
+
+Role-based employee and attendance management platform.
+
+`Laravel` `React`  
+`Inertia` `TypeScript`  
+`PostgreSQL`
+
+</td>
+
+<td width="33%" align="center">
+
+### 🍽️ Restaurant POS
+
+**Point-of-Sale System**
+
+Multi-role restaurant management and POS platform.
+
+`Next.js` `React`  
+`Prisma` `TypeScript`  
+`PostgreSQL`
+
+</td>
+
+<td width="33%" align="center">
+
+### 📱 Mobile Development
+
+**React Native Applications**
+
+Building and teaching practical mobile applications.
+
+`React Native` `Expo`  
+`Firebase`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                     EXPERIENCE                        -->
+<!-- ===================================================== -->
+
+## 🧩 What I Build
+
+<p align="center">
+
+`🌐 Web Applications`
+&nbsp;
+`📱 Mobile Apps`
+&nbsp;
+`🏢 Information Systems`
+&nbsp;
+`📡 IoT Systems`
+&nbsp;
+`🗄️ Databases`
+&nbsp;
+`🔐 Secure Systems`
+
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                      CURRENT FOCUS                    -->
+<!-- ===================================================== -->
 
 ## 🎯 Current Focus
 
 <p align="center">
-  Full-Stack Development • Mobile Development • System Architecture<br>
-  Cybersecurity • Data Security • AI-Assisted Development • Software Engineering
+
+<img src="https://img.shields.io/badge/Full--Stack-Development-198754?style=flat-square" />
+<img src="https://img.shields.io/badge/Mobile-Development-198754?style=flat-square" />
+<img src="https://img.shields.io/badge/System-Architecture-198754?style=flat-square" />
+<img src="https://img.shields.io/badge/Cybersecurity-Learning-198754?style=flat-square" />
+<img src="https://img.shields.io/badge/Data-Security-198754?style=flat-square" />
+<img src="https://img.shields.io/badge/AI--Assisted-Development-198754?style=flat-square" />
+
 </p>
 
+<br>
 
-## 💡 Developer Philosophy
+<!-- ===================================================== -->
+<!--                     PHILOSOPHY                        -->
+<!-- ===================================================== -->
+
+---
 
 <p align="center">
-  <i>"Understand the problem. Design the system. Then write the code."</i>
+  <b>Understand the problem. Design the system. Then write the code.</b>
+</p>
+
+<p align="center">
+  <sub>Always learning • Always building • Always improving</sub>
 </p>
