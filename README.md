@@ -1,8 +1,8 @@
 <!-- ===================================================== -->
-<!--                  RAY GEORPE — GITHUB                  -->
+<!--                 RAY GEORPE — GITHUB                   -->
 <!-- ===================================================== -->
 
-<h1 align="center">Hey, I'm Ray 👋</h1>
+<h1 align="center">Hey there, I'm Ray 👋</h1>
 
 <h3 align="center">
   IT Educator • Full-Stack Developer • MIT Graduate Student
@@ -13,22 +13,28 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=rayyyyyw&label=Profile%20Views&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
 
-<br>
-
-<!-- ===================================================== -->
-<!--                       ABOUT                           -->
-<!-- ===================================================== -->
+---
 
 ## 👨‍💻 About Me
 
 ```yaml
-name: Ray
-role: IT Educator & Full-Stack Developer
+name: Ray Georpe
+username: rayyyyyw
+
+role:
+  - IT Educator
+  - Full-Stack Developer
+
 education: Master of Information Technology
-institution: Central Philippine State University — Hinoba-an Campus
+
+institution:
+  Central Philippine State University — Hinoba-an Campus
 
 currently_building:
   - Human Resource Information System
@@ -44,78 +50,63 @@ interests:
   - AI-Assisted Development
 ```
 
-<br>
-
-<!-- ===================================================== -->
-<!--                     TECH STACK                        -->
-<!-- ===================================================== -->
+---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,nextjs,nodejs,tailwind,bootstrap,postgres,mysql,firebase,git,github,vscode,figma,arduino&perline=20" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,nextjs,nodejs,tailwind,bootstrap,postgres,mysql,firebase,prisma,git,github,vscode,figma,arduino&perline=20"
+    alt="Tech Stack"
+  />
 </p>
 
 <p align="center">
   <sub>
-    HTML • CSS • JavaScript • TypeScript • PHP • Laravel • React • Next.js • Node.js •
-    Tailwind • Bootstrap • PostgreSQL • MySQL • Firebase • Git • GitHub • VS Code •
-    Figma • Arduino
+    HTML • CSS • JavaScript • TypeScript • PHP • Laravel • React • Next.js •
+    Node.js • Tailwind • Bootstrap • PostgreSQL • MySQL • Firebase • Prisma •
+    Git • GitHub • VS Code • Figma • Arduino
   </sub>
 </p>
 
-<br>
-
-<!-- ===================================================== -->
-<!--                   GITHUB STATS                        -->
-<!-- ===================================================== -->
+---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-    alt="GitHub Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=rayyyyyw&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+    alt="Ray's GitHub Statistics"
   />
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyyyyw&layout=compact&hide_border=true&langs_count=10"
+    alt="Ray's Most Used Languages"
   />
 </p>
-
-<br>
 
 <p align="center">
   <img
     width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rayyyyyw&hide_border=true"
+    alt="Ray's GitHub Contribution Streak"
   />
 </p>
 
-<br>
-
-<!-- ===================================================== -->
-<!--                 CONTRIBUTION GRAPH                    -->
-<!-- ===================================================== -->
+---
 
 ## 📈 Contribution Activity
 
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true"
-    alt="Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rayyyyyw&hide_border=true&area=true"
+    alt="Ray's GitHub Contribution Activity"
   />
 </p>
 
-<br>
-
-<!-- ===================================================== -->
-<!--                      PROJECTS                         -->
-<!-- ===================================================== -->
+---
 
 ## 🚀 Current Projects
 
@@ -124,14 +115,14 @@ interests:
 
 <td width="33%" align="center">
 
-### 🏢 HRIS
+### 🏢 HRIS Sipalay
 
 **Human Resource Information System**
 
-Role-based employee and attendance management platform.
+Role-based HR and attendance management system.
 
 `Laravel` `React`  
-`Inertia` `TypeScript`  
+`Inertia.js` `TypeScript`  
 `PostgreSQL`
 
 </td>
@@ -166,11 +157,7 @@ Building and teaching practical mobile applications.
 </tr>
 </table>
 
-<br>
-
-<!-- ===================================================== -->
-<!--                     EXPERIENCE                        -->
-<!-- ===================================================== -->
+---
 
 ## 🧩 What I Build
 
@@ -190,37 +177,65 @@ Building and teaching practical mobile applications.
 
 </p>
 
-<br>
-
-<!-- ===================================================== -->
-<!--                      CURRENT FOCUS                    -->
-<!-- ===================================================== -->
+---
 
 ## 🎯 Current Focus
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Full--Stack-Development-198754?style=flat-square" />
-<img src="https://img.shields.io/badge/Mobile-Development-198754?style=flat-square" />
-<img src="https://img.shields.io/badge/System-Architecture-198754?style=flat-square" />
-<img src="https://img.shields.io/badge/Cybersecurity-Learning-198754?style=flat-square" />
-<img src="https://img.shields.io/badge/Data-Security-198754?style=flat-square" />
-<img src="https://img.shields.io/badge/AI--Assisted-Development-198754?style=flat-square" />
+<img src="https://img.shields.io/badge/Full--Stack-Development-198754?style=flat-square" alt="Full Stack" />
+<img src="https://img.shields.io/badge/Mobile-Development-198754?style=flat-square" alt="Mobile Development" />
+<img src="https://img.shields.io/badge/System-Architecture-198754?style=flat-square" alt="System Architecture" />
+<img src="https://img.shields.io/badge/Cybersecurity-Learning-198754?style=flat-square" alt="Cybersecurity" />
+<img src="https://img.shields.io/badge/Data-Security-198754?style=flat-square" alt="Data Security" />
+<img src="https://img.shields.io/badge/AI--Assisted-Development-198754?style=flat-square" alt="AI Assisted Development" />
 
+</p>
+
+---
+
+## 📡 IoT Experience
+
+<p align="center">
+  <b>IoT-Based Tricycle Tracking & Monitoring System</b>
+</p>
+
+<p align="center">
+  GPS • LoRa • Arduino • Laravel • React • PostgreSQL
+</p>
+
+<p align="center">
+  Real-time location tracking and monitoring using GPS and LoRa communication.
+</p>
+
+---
+
+## 💻 Development
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Web-Laravel%20%7C%20Next.js%20%7C%20React-198754?style=for-the-badge" alt="Web Development" />
+
+<img src="https://img.shields.io/badge/Mobile-React%20Native%20%7C%20Expo-198754?style=for-the-badge" alt="Mobile Development" />
+
+<img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20MySQL%20%7C%20Firebase-198754?style=for-the-badge" alt="Database" />
+
+</p>
+
+---
+
+## 🧠 Developer Philosophy
+
+<p align="center">
+  <i>"Understand the problem. Design the system. Then write the code."</i>
 </p>
 
 <br>
 
-<!-- ===================================================== -->
-<!--                     PHILOSOPHY                        -->
-<!-- ===================================================== -->
-
----
-
 <p align="center">
-  <b>Understand the problem. Design the system. Then write the code.</b>
+  <b>Always learning • Always building • Always improving</b>
 </p>
 
 <p align="center">
-  <sub>Always learning • Always building • Always improving</sub>
+  <sub>IT Educator • Developer • Graduate Student</sub>
 </p>
